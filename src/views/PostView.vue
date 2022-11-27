@@ -30,7 +30,7 @@ fetchPost();
 
 <template>
   <div class="about">
-    {{ post.title }}
+    {{ post.body }}
   </div>
 </template>
 
